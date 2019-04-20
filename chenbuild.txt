@@ -41,7 +41,7 @@
 		{	
 
 			"item"	"item_dagger_of_escape"	
-			"item"	ìitem_gem_of_corruptionî
+			"item"	‚Äúitem_gem_of_corruption‚Äù
 			"item"  "item_war_drum"
 
 		}
@@ -51,31 +51,32 @@
 
 
 		{
-
+			"item" "aghanims_scepter"
+			"item" "item_shadow_blade"
 			"item" "item_lucifers_cage"
 			"item" "item_flashback"
 			"item" "item_warp_staff"
 			"item" "item_armor_of_invasion"
 			"item" "item_lucys_ring"
                         "item" "item_echoing_tambourine"
-			"item" "item_inspiring_bongos"
 			"item" "item_father_pipe"
 			"item" "item_gauntlet_of_the_void"
 
 		}
 
-              ì#DOTA_Item_Build_Situationalî
+              ‚Äú#DOTA_Item_Build_Situational‚Äù
 
               {
+	        "item" "item_dark_ones_blessing"
                 "item" "item_lifeweavers_clockwork"
-                "item" "item_shadow_blade"
                 "item" "item_penumbra"
                 "item" "item_galactic_hammer"
-                "item" "item_rising_saltî
+                "item" "item_rising_salt‚Äù
                 "item" "item_iron_rose"
                 "item" "item_lightningbottle"
                 "item" "item_blade_of_dominion"
                 "item" "item_trinity"
+		"item" "item_inspiring_bongos"
               }
 
 
