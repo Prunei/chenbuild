@@ -1,55 +1,22 @@
 
 "itembuild"
-
-
-
-
 {
-
-
 	"author"		"Prune"
-
-
 	"hero"			"hero_chen"
-
-
 	"Title"			"Chen (Hardcore)"
-
-
-	
-
-
 	"Items"
-
-
 	{	
-
-
 		"#DOTA_Item_Build_Starting_Items"
-
-
 		{
-
 			"item"	"item_jar_of_souls"
-
 		}
-
-
 		"#DOTA_Item_Build_Early_Game"
-
-
 		{	
-
 			"item"	"item_dagger_of_escape"	
 			"item"	“item_gem_of_corruption”
 			"item"  "item_war_drum"
-
 		}
-
-
 		"#DOTA_Item_Build_Core_Items"
-
-
 		{
 			"item" "aghanims_scepter"
 			"item" "item_shadow_blade"
@@ -61,11 +28,8 @@
                         "item" "item_echoing_tambourine"
 			"item" "item_father_pipe"
 			"item" "item_gauntlet_of_the_void"
-
 		}
-
               “#DOTA_Item_Build_Situational”
-
               {
 	        "item" "item_dark_ones_blessing"
                 "item" "item_lifeweavers_clockwork"
@@ -78,9 +42,5 @@
                 "item" "item_trinity"
 		"item" "item_inspiring_bongos"
               }
-
-
 	}
-
-
 }
